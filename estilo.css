@@ -1,12 +1,15 @@
 body {
-  background-image: url("https://www.minutofueguino.com.ar/galeria/fotos-tdf/2020/12/20/l_1608518568.jpg");
-  background-color: #2f5046;
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/302/693/318/musical-notes-background-wallpaper-preview.jpg");
+  background-color: #487d89;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 h1 {
   font-family: "sans-serif";
   font-style: italic;
-  color: rgb(167, 179, 114);
+  color: #a7b372;
   font-size: 50px;
+  text-align: center;
 }
 h2 {
   font-style: italic;
@@ -42,4 +45,8 @@ ul li {
 
 .distinto {
   background-color: wheat;
+}
+
+.inline1 {
+  font-weight: bold;
 }
